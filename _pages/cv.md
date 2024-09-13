@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+[PDF Version of CV](/files/Hritan_CV.pdf)
 ======
 
 Education
