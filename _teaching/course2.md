@@ -8,11 +8,11 @@ date: 2023-05-01
 location: "Atlanta, Georgia"
 ---
 
-Syllabus
+#Syllabus
 ======
 [Syllabus](/files/ECON_2105_Summer_Syllabus.pdf)
 
-Course Evaluation
+#Course Evaluation
 ======
-*[Course Evaluation 1](/files/Hritan_2023_Summer_ECON_2105_Prin_of_Macroeconomics_SF1.pdf)
-*[Course Evaluation 2](/files/Hritan_2023_Summer_ECON_2105_Prin_of_Macroeconomics_NP1.pdf)
+[Course Evaluation 1](/files/Hritan_2023_Summer_ECON_2105_Prin_of_Macroeconomics_SF1.pdf)
+[Course Evaluation 2](/files/Hritan_2023_Summer_ECON_2105_Prin_of_Macroeconomics_NP1.pdf)
