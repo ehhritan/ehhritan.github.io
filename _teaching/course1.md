@@ -12,5 +12,5 @@ location: "Atlanta, Georgia"
 Materials
 ======
 [Syllabus](/files/ECON_2250_Spring_2024_Syllabus.pdf)
-[Course Evaluation 1](/files/Hritan_2024_Spring_ECON_2250_Statistics_for_Econ_HZ1.pdf)
+[Course Evaluation](/files/Hritan_2024_Spring_ECON_2250_Statistics_for_Econ_HZ1.pdf)
 
