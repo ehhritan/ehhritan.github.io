@@ -12,4 +12,4 @@ location: "Atlanta, Georgia"
 
 Syllabus
 ======
-[Syllabus](https://ehhritan.github.io/files/Hritan_CV.pdf) 
+[Syllabus](files/2250_Fall_syllabus_2022.pdf) 
