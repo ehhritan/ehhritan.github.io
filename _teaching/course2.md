@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Summer
 venue: "Georgia Institute Of Technology, School of Economics"
-date: 2023-01-01
+date: 2023-05-01
 location: "Atlanta, Georgia"
 ---
 
@@ -12,4 +12,4 @@ location: "Atlanta, Georgia"
 
 Syllabus
 ======
-[Syllabus](files/Hritan_CV)
+[Syllabus](files/ECON 2105 Summer Syllabus.pdf)
