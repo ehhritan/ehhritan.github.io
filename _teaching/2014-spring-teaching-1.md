@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "ECON 2250 Statistics for Economists"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2024-Spring
+venue: "Georgia Institute Of Technology, School of Economics"
+date: 2024-01-01
+location: "Atlanta, Georgia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Syllabus
 ======
+[Syllabus](/files/ECON_2250_Spring_2024_Syllabus.pdf)
 
-Heading 2
+Course Evaluation
 ======
+[Course Evaluation 1](/files/Hritan_2024_Spring_ECON_2250_Statistics_for_Econ_HZ1.pdf)
 
-Heading 3
-======
