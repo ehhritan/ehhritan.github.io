@@ -12,4 +12,8 @@ location: "Atlanta, Georgia"
 
 Syllabus
 ======
-[Syllabus](files/2250_Fall_syllabus_2022.pdf) 
+[Syllabus](/files/2250_Fall_syllabus_2022.pdf) 
+
+Course Evaluation
+======
+[Course Evaluation](/files/Hritan_2022_Fall_ECON_2250_Statistics_for_Econ_AA.pdf)
