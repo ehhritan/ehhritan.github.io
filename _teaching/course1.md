@@ -9,11 +9,8 @@ date: 2024-01-01
 location: "Atlanta, Georgia"
 ---
 
-Syllabus
+Materials
 ======
 [Syllabus](/files/ECON_2250_Spring_2024_Syllabus.pdf)
-
-Course Evaluation
-======
 [Course Evaluation 1](/files/Hritan_2024_Spring_ECON_2250_Statistics_for_Econ_HZ1.pdf)
 
