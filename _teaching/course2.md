@@ -12,4 +12,4 @@ location: "Atlanta, Georgia"
 
 Syllabus
 ======
-[Syllabus](files/ECON 2105 Summer Syllabus.pdf)
+[Syllabus](files/ECON_2105_Summer_Syllabus.pdf)
