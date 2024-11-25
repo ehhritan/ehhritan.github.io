@@ -1,5 +1,5 @@
 ---
-title: "Fighting Fire with Fire: A Study on the Effectiveness of Prescribed Burns in Mitigating Future Wildfires (Works in Progress)"
+title: "Fighting Fire with Fire: A Study on the Effectiveness of Prescribed Burns in Mitigating Future Wildfires (Work in Progress)"
 collection: publications
 category: conferences
 permalink: /publication/2023-12-12-paper-title-number-6
