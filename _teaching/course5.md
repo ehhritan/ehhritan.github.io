@@ -12,6 +12,6 @@ location: "Jamestown, NC"
 
 Materials
 ======
-[Microeconomics Syllabus](files/2020SP_ECO_251_FJT01_Syllabus.pdf) 
-[Macroeconomics Syllabus](files/2020SP_ECO_252_Syllabus_FJT01_Updated.pdf) 
-[Macroeconomics (online) Syllabus](files/2020SU_ECO_252_Syllabus_Online.pdf) 
+[Microeconomics Syllabus](/files/2020SP_ECO_251_FJT01_Syllabus.pdf) 
+[Macroeconomics Syllabus](/files/2020SP_ECO_252_Syllabus_FJT01_Updated.pdf) 
+[Macroeconomics (online) Syllabus](/files/2020SU_ECO_252_Syllabus_Online.pdf) 
