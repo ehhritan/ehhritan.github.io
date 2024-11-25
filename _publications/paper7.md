@@ -1,5 +1,5 @@
 ---
-title: " Crime is in the water: Impact of water pollution on crime (Works in Progress)"
+title: " Crime is in the water: Impact of water pollution on crime (Work in Progress)"
 collection: publications
 category: conferences
 permalink: /publication/2023-03-23-paper-title-number-7
