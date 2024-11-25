@@ -1,6 +1,6 @@
 ---
 title: "Ride or Die: Did Ridesharing Services Kill Active and Public Transit? (Joint
-with Casey Wichman)"
+with Casey Wichman) (Work in Progress)"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
