@@ -13,4 +13,4 @@ Materials
 ======
 [Syllabus](/files/ECON_2250_Spring_2024_Syllabus.pdf)
 [Course Evaluation](/files/Hritan_2024_Spring_ECON_2250_Statistics_for_Econ_HZ1.pdf)
-![image alt](https://github.com/ehhritan/ehhritan.github.io/blob/master/images/cetl_certificate.jpg?raw=true)
+<img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/cetl_certificate.jpg?raw=true" alt="image alt" width="30%">
