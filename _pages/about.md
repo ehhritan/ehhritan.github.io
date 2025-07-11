@@ -12,4 +12,4 @@ Welcome to my website! I am a Ph.D. candidate in the School of Economics at the 
 
 You can view my [CV](/files/Hritan_CV.pdf) here.
 
-I will be joining the Bruckner Lab in the Joe C. Wen School of Population and Public Health at the University of California, Irvine as a Postdoctoral Fellow in Fall 2025.
+**I will be joining the Bruckner Lab in the Joe C. Wen School of Population and Public Health at the University of California, Irvine as a Postdoctoral Fellow in Fall 2025.**
