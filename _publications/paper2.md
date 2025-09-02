@@ -7,7 +7,7 @@ excerpt: 'Abstract: Natural and human-made disasters can have far-reaching impac
 date: 2023-10-01
 venue: 'Working paper'
 
-paperurl: 'https://gtvault-my.sharepoint.com/:b:/g/personal/ehritan3_gatech_edu/EVnQPeGCFyZEgrlGxWnAl_sBrOc9B1oUw_Kjk8D_eqZiwg?e=JWg5TS'
+paperurl: 'https://www.dropbox.com/scl/fi/kjewa4krfhcemedbbn607/disaster_thesis.pdf?rlkey=mkobps21jwmc65k4bw8y9v3bd&st=4orckezi&dl=0'
 
 ---
 
