@@ -9,6 +9,7 @@ author_profile: true
 
 Replication Files
 ======
+* Hritan, Emtiaz Hossain, 2025, "Replication Files: Silencing the Rails: A Study of the Noise-Safety Trade-off in Railway Quiet Zones", [https://doi.org/10.7910/DVN/A75U8R](https://doi.org/10.7910/DVN/A75U8R), Harvard Dataverse, V1
 * Hritan, Emtiaz Hossain (2024), “Replication Files: Crimes on the Move: The Effect of Ridesharing Services on Crime”, Mendeley Data, V1, doi: 10.17632/gnf9khrbb9.1 [Replication code](https://data.mendeley.com/datasets/gnf9khrbb9/1)
 * Hritan, Emtiaz Hossain (2024), “Replication Files: Impact of An Infrastructure Failure on Cognitive Performance”, Mendeley Data, V1, doi: 10.17632/mj9zhb9vxj.1
 [Replication code](https://data.mendeley.com/datasets/mj9zhb9vxj/1)
