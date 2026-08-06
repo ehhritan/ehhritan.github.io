@@ -19,7 +19,7 @@ author_profile: true
 
 * Flash presentation  
   * Session: Flash: Advances in Spatial Networks, Population Mobility, and Crime
-* [Crime on the Move? The Effect of Ridesharing Services on Crime](https://submissions.mirasmart.com/PAA2026/Itinerary/PresentationDetail.aspx?evdid=624)
+  * [Crime on the Move? The Effect of Ridesharing Services on Crime](https://submissions.mirasmart.com/PAA2026/Itinerary/PresentationDetail.aspx?evdid=624)
 * Poster presentation  
   * Session: Poster Session 09: Mortality and Morbidity/Demography of Low- and Middle-Income Countries
   * [Silencing the Rails: A Study of the Noise–Safety Tradeoff in Railway Quiet Zones](https://submissions.mirasmart.com/PAA2026/Itinerary/PresentationDetail.aspx?evdid=2972)
