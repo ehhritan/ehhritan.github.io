@@ -3,6 +3,7 @@ layout: archive
 title: "Conference Presentations"
 permalink: /conferences/
 author_profile: true
+---
 This page highlights my research presentations and professional participation at academic conferences, workshops, and symposia.
 2026
 15th Annual Conference of the American Society of Health Economists (ASHEcon)
