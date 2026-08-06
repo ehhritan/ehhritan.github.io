@@ -4,8 +4,9 @@ title: "Conference Presentations"
 permalink: /conferences/
 author_profile: true
 ---
-This page highlights my research presentations and professional participation at academic conferences, workshops, and symposia.
+
 2026
+======
 15th Annual Conference of the American Society of Health Economists (ASHEcon)
 June 7–10, 2026 · Hyatt Regency Minneapolis · Minneapolis, Minnesota
 Presenting author
@@ -14,7 +15,7 @@ The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes
 Discussant
 Where Do Foreign Born Mothers Seeking Care Post Welfare Reform? Evidence from Federally Qualified Health Centers
 <figure style="margin: 1.5rem 0 2rem;">
-  <img src="{{ '/images/conferences/ashecon-2026.jpg' | relative_url }}"
+  <img src="{{ '/images/ashecon-2026.jpg' | relative_url }}"
        alt="Emtiaz Hossain Hritan at the 2026 ASHEcon Conference in Minneapolis"
        style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
   <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
@@ -23,6 +24,7 @@ Where Do Foreign Born Mothers Seeking Care Post Welfare Reform? Evidence from Fe
 </figure>
 ---
 Population Association of America (PAA) 2026 Annual Meeting
+======
 May 6–9, 2026 · America's Center Convention Complex · St. Louis, Missouri
 Flash presentation  
 Session: Flash: Advances in Spatial Networks, Population Mobility, and Crime
@@ -31,7 +33,7 @@ Poster presentation
 Session: Poster Session 09: Mortality and Morbidity/Demography of Low- and Middle-Income Countries
 Silencing the Rails: A Study of the Noise–Safety Tradeoff in Railway Quiet Zones
 <figure style="margin: 1.5rem 0 2rem;">
-  <img src="{{ '/images/conferences/paa-2026.jpg' | relative_url }}"
+  <img src="{{ '/images/paa-2026.jpg' | relative_url }}"
        alt="Emtiaz Hossain Hritan at the 2026 Population Association of America Annual Meeting in St. Louis"
        style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
   <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
@@ -40,12 +42,13 @@ Silencing the Rails: A Study of the Noise–Safety Tradeoff in Railway Quiet Zon
 </figure>
 ---
 2026 All-UC Demography Conference
+======
 February 26–27, 2026 · Loma Pelona Center, UC Santa Barbara · Santa Barbara, California
 Hosted by the Leonard and Gretchan Broom Center for Demography at UC Santa Barbara.
 Presentation
 Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.
 <figure style="margin: 1.5rem 0 2rem;">
-  <img src="{{ '/images/conferences/all-uc-demography-2026.jpg' | relative_url }}"
+  <img src="{{ '/images/all-uc-demography-2026.jpg' | relative_url }}"
        alt="Emtiaz Hossain Hritan presenting at the 2026 All-UC Demography Conference"
        style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
   <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
@@ -54,12 +57,12 @@ Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Repr
 </figure>
 ---
 10th Annual Postdoctoral Scholar Research Symposium
-Against the Headwinds: Keeping Science Afloat  
+====== 
 April 24, 2026 · UCI Student Center, Emerald Bay DE Room · Irvine, California
 Presentation
 Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.
 <figure style="margin: 1.5rem 0 2rem;">
-  <img src="{{ '/images/conferences/uci-postdoc-symposium-2026.jpg' | relative_url }}"
+  <img src="{{ '/images/uci-postdoc-symposium-2026.jpg' | relative_url }}"
        alt="Emtiaz Hossain Hritan presenting at UCI's 10th Annual Postdoctoral Scholar Research Symposium"
        style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
   <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
@@ -67,6 +70,7 @@ Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Repr
   </figcaption>
 </figure>
 2025
+======
 Association of Environmental and Resource Economists (AERE) Summer Conference
 Conference presentation at the 2025 AERE Summer Conference.
 2024
