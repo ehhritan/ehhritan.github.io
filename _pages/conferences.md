@@ -14,14 +14,8 @@ author_profile: true
 * The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes
 * Discussant
 * Where Do Foreign Born Mothers Seeking Care Post Welfare Reform? Evidence from Federally Qualified Health Centers
-<figure style="margin: 1.5rem 0 2rem;">
-  <img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/ashecon-2026.jpeg"
-       alt="Emtiaz Hossain Hritan at the 2026 ASHEcon Conference in Minneapolis"
-       style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
-  <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
-    15th Annual ASHEcon Conference, Minneapolis, Minnesota, June 2026.
-  </figcaption>
-</figure>
+<img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/ashecon-2026.jpeg?raw=true" alt="Certificate" width="50%">
+
 ---
 Population Association of America (PAA) 2026 Annual Meeting
 ======
@@ -32,14 +26,8 @@ Population Association of America (PAA) 2026 Annual Meeting
 * Poster presentation  
 * Session: Poster Session 09: Mortality and Morbidity/Demography of Low- and Middle-Income Countries
 * Silencing the Rails: A Study of the Noise–Safety Tradeoff in Railway Quiet Zones
-<figure style="margin: 1.5rem 0 2rem;">
-  <img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/paa-2026.jpeg"
-       alt="Emtiaz Hossain Hritan at the 2026 Population Association of America Annual Meeting in St. Louis"
-       style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
-  <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
-    PAA 2026 Annual Meeting, St. Louis, Missouri, May 2026.
-  </figcaption>
-</figure>
+<img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/paa-2026.jpeg?raw=true" alt="Certificate" width="50%">
+
 ---
 2026 All-UC Demography Conference
 ======
@@ -47,28 +35,18 @@ Population Association of America (PAA) 2026 Annual Meeting
 Hosted by the Leonard and Gretchan Broom Center for Demography at UC Santa Barbara.
 * Presentation
 * Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.
-<figure style="margin: 1.5rem 0 2rem;">
-  <img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/all-uc-demography-2026.jpeg"
-       alt="Emtiaz Hossain Hritan presenting at the 2026 All-UC Demography Conference"
-       style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
-  <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
-    All-UC Demography Conference, UC Santa Barbara, February 2026.
-  </figcaption>
-</figure>
+
+<img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/all-uc-demography-2026.jpeg?raw=true" alt="Certificate" width="50%">
+
 ---
 10th Annual Postdoctoral Scholar Research Symposium
 ====== 
 * April 24, 2026 · UCI Student Center, Emerald Bay DE Room · Irvine, California
 * Presentation
 * Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.
-<figure style="margin: 1.5rem 0 2rem;">
-  <img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/uci-postdoc-symposium-2026.jpeg"
-       alt="Emtiaz Hossain Hritan presenting at UCI's 10th Annual Postdoctoral Scholar Research Symposium"
-       style="display: block; width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
-  <figcaption style="max-width: 850px; margin-top: 0.5rem; color: #666; font-size: 0.9em;">
-    UCI Postdoctoral Scholar Research Symposium, Irvine, California, April 2026.
-  </figcaption>
-</figure>
+
+<img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/uci-postdoc-symposium-2026.jpeg?raw=true" alt="Certificate" width="50%">
+
 ---
 
 2025
@@ -76,11 +54,13 @@ Hosted by the Leonard and Gretchan Broom Center for Demography at UC Santa Barba
 * Association of Environmental and Resource Economists (AERE) Summer Conference
 * Conference presentation at the 2025 AERE Summer Conference.
 ---
+
 2024
 ======
 * 12th Annual Graduate Student Paper Conference, 
 Ivan Allen College of Liberal Arts, Georgia Institute of Technology.
 ---
+
 2023
 ======
 * American Society of Health Economists (ASHEcon) Conference
