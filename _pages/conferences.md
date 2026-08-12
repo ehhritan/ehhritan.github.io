@@ -37,7 +37,7 @@ author_profile: true
 **10th Annual Postdoctoral Scholar Research Symposium · Irvine, California**
 
 * Presentation
-  * Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.
+  * [Emtiaz Hossain Hritan and Tim A. Bruckner. The Politics of Birth: How Local Representation Shapes Maternal-Infant Outcomes. University of California, Irvine, Department of Health, Society, and Behavior.](https://heyzine.com/flip-book/8a90c52dae.html#page/2) 
 
 <img src="https://github.com/ehhritan/ehhritan.github.io/blob/master/images/uci-postdoc-symposium-2026.jpeg?raw=true" alt="Certificate" width="50%">
 
