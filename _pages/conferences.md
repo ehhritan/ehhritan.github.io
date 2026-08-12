@@ -52,7 +52,7 @@ author_profile: true
 2024
 ======
 **12th Annual Graduate Student Paper Conference, 
-Ivan Allen College of Liberal Arts, Georgia Institute of Technology** [Link](https://gtvault-my.sharepoint.com/:b:/g/personal/ehritan3_gatech_edu/EeVrHQypC2pGrZy98rUPfwoB8UoLfNmlGLwYT3rEvYY8DQ?e=eOn1QO)
+Ivan Allen College of Liberal Arts, Georgia Institute of Technology** [Link](https://www.dropbox.com/scl/fi/89iyjt05nwp5bt013jns5/Program_2024_IAC_Research_Conference.pdf?rlkey=he3xytlsavrqs3bcxclp8f4su&st=eo3kquyr&dl=0)
 
 ---
 
