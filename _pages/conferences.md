@@ -59,8 +59,8 @@ Ivan Allen College of Liberal Arts, Georgia Institute of Technology** [Link](htt
 2023
 ======
 * **American Society of Health Economists (ASHEcon) Conference  ·St. Louis, Missouri**
-  * [Session: Physical and Cognitive Health Effects of Air Pollution](https://www.aere.org/assets/2025Conference/AERE%20-%20Summer%20Conference%202025%20-%20Detailed%20Program.pdf)
+  * [Session: Physical and Cognitive Health Effects of Air Pollution](https://ashecon.confex.com/ashecon/2023/meetingapp.cgi/Session/4854)
 * **Southeastern Workshop on Energy & Environmental Economics and Policy (SWEEEP)**
-  * [Conference presentation at the 2023 SWEEEP.](https://www.aere.org/assets/2025Conference/AERE%20-%20Summer%20Conference%202025%20-%20Detailed%20Program.pdf)
+  * [Conference presentation at the 2023 SWEEEP.](https://econ.gatech.edu/research/conferences/sweeep)
 
 * **GSU Environmental Economics Symposium, Georgia State University**
