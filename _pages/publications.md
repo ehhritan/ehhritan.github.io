@@ -19,11 +19,11 @@ Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on c
 
 ---
 
-Bruckner, Tim A., Brenda Bustos, Emtiaz Hritan, and Samantha Gailey. "Economic connectedness and fetal and infant death: a population-based cross-sectional study of California." **Journal of Epidemiology and Community Health** 80, no. 8 (2026): 617-623.
+Bruckner, Tim A., Brenda Bustos, *Emtiaz Hritan*, and Samantha Gailey. "Economic connectedness and fetal and infant death: a population-based cross-sectional study of California." **Journal of Epidemiology and Community Health** 80, no. 8 (2026): 617-623.
 
 ---
 
-Catalano, Ralph, Brenda Bustos, Emtiaz Hritan, Joan A. Casey, Alison Gemmill, Hedwig Lee, Dana Sarnak, and Tim Bruckner. "Inflated Denominators, Selection In Utero, and the Black Male Neonatal Death Paradox." **Paediatric and Perinatal Epidemiology** 40, no. 4 (2026): 454-461.
+Catalano, Ralph, Brenda Bustos, *Emtiaz Hritan*, Joan A. Casey, Alison Gemmill, Hedwig Lee, Dana Sarnak, and Tim Bruckner. "Inflated Denominators, Selection In Utero, and the Black Male Neonatal Death Paradox." **Paediatric and Perinatal Epidemiology** 40, no. 4 (2026): 454-461.
 
 ---
 
@@ -37,7 +37,7 @@ Impact of an Infrastructure Failure on Cognitive Performance
 ---
 The Politics of Birth: How Local Representation Shapes Maternal–Infant Outcomes
 
-Emtiaz Hritan and Tim A. Bruckner.  
+*Emtiaz Hritan* and Tim A. Bruckner.  
 \[Under review at **American Journal of Health Economics**\]
 [PDF](https://www.dropbox.com/scl/fi/ky300xvy9baml69dfxqsw/Hritan_Bruckner_Election_Perinatal_2026.pdf?rlkey=u5gpjaoxngejn92n0j05m0kk8&st=pleh838p&dl=0) ·
 [Replication files](https://doi.org/10.7910/DVN/NVXTSU)
@@ -46,41 +46,41 @@ Emtiaz Hritan and Tim A. Bruckner.
 
 Hospital Privatization Increased Some Adverse Perinatal Outcomes Among Medicaid Enrollees
 
-Emtiaz Hritan and Tim A. Bruckner.  
+*Emtiaz Hritan* and Tim A. Bruckner.  
 \[Under review at **Medical Care**\]
 
 ---
 Advanced Maternal Age, Socioeconomic Confounding, and Birth Outcomes: Evidence from California
 
-Emtiaz Hritan and Tim A. Bruckner.  
+*Emtiaz Hritan* and Tim A. Bruckner.  
 \[Under review at **Paediatric and Perinatal Epidemiology**\]
 
 ---
 
 Emergency Department Visits Among Hispanics in Los Angeles Following the June 6th Immigration Raids
 
-Brenda Bustos, Shutong Huo, Emtiaz Hritan, and Tim A. Bruckner.  
+Brenda Bustos, Shutong Huo, *Emtiaz Hritan*, and Tim A. Bruckner.  
 \[Revise and Resubmit at **American Journal of Public Health**\]
 
 ---
 
 Fetal Deaths in the United States During the Initial COVID-19 Shelter-in-Place Period: A Conception-Cohort Approach
 
-Tim A. Bruckner, Brenda Bustos, Emtiaz Hritan, Dana Sarnak, Alison Gemmill, and Ralph Catalano.  
+Tim A. Bruckner, Brenda Bustos, *Emtiaz Hritan*, Dana Sarnak, Alison Gemmill, and Ralph Catalano.  
 \[Revise and Resubmit at **BMC Pregnancy and Childbirth**\]
 
 ---
 
 Increased Infant Mortality Among Black Male Twins After the Obama Election: A Sequela of Selection In Utero
 
-Ralph Catalano, Allison Stolte, Emtiaz Hritan, Hedwig Lee, Brenda Bustos, Alison Gemmill, Dana Sarnak, and Tim A. Bruckner.  
+Ralph Catalano, Allison Stolte, *Emtiaz Hritan*, Hedwig Lee, Brenda Bustos, Alison Gemmill, Dana Sarnak, and Tim A. Bruckner.  
 \[Revise and Resubmit at **Evolution, Medicine, and Public Health**\]
 
 ---
 
 Stillbirth, Neonatal Death, and Deference to Parental Preferences in the United States
 
-Ralph Catalano, Emtiaz Hritan, Alison Gemmill, Simone Wien, Dana Sarnak, Brenda Bustos, and Tim A. Bruckner.  
+Ralph Catalano, *Emtiaz Hritan*, Alison Gemmill, Simone Wien, Dana Sarnak, Brenda Bustos, and Tim A. Bruckner.  
 \[Under review at **Proceedings of the National Academy of Sciences**\]
 
 ---
@@ -96,13 +96,13 @@ Silencing the Rails: A Study of the Noise–Safety Trade-Off in Railway Quiet Zo
 
 Ride or Die: Did Ridesharing Services Kill Active and Public Transit?
 
-Emtiaz Hritan and Casey Wichman.
+*Emtiaz Hritan* and Casey Wichman.
 
 ---
 
 Moving Beyond the Cross-Sectional: Changes in Structural Disadvantage and Fetal and Neonatal Death in the United States
 
-Emtiaz Hritan, Tim A. Bruckner, Brenda Bustos, Dana Sarnak, Alison Gemmill, Joan A. Casey, and Ralph Catalano.
+*Emtiaz Hritan*, Tim A. Bruckner, Brenda Bustos, Dana Sarnak, Alison Gemmill, Joan A. Casey, and Ralph Catalano.
 
 ---
 
@@ -134,6 +134,6 @@ Burn to Move? The Effects of Prescribed Fire on Internal Population Migration in
 
 The Impacts of Air Pollution on Traffic Accidents Across the United States
 
-**Emtiaz Hritan** and Pruek Vanna-iampikul.  
+*Emtiaz Hritan* and Pruek Vanna-iampikul.  
 [SSRN working paper](https://ssrn.com/abstract=4039404)
 
