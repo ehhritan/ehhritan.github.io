@@ -14,11 +14,7 @@ author_profile: true
 
 ## Publications
 
-### Crime on the Move? The Effect of Ridesharing Services on Crime
-
-**Emtiaz Hossain Hritan.**  
-*Economic Inquiry* (2026), forthcoming.  
-[Published article](https://doi.org/10.1111/ecin.70087) ·
+Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. Economic Inquiry, 1–59. https://doi.org/10.1111/ecin.70087
 [Replication files](https://doi.org/10.3886/ICPSR246172.V2)
 
 ---
