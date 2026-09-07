@@ -14,7 +14,14 @@ author_profile: true
 
 ## Publications
 
-Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. **Economic Inquiry**, 1–59. https://doi.org/10.1111/ecin.70087
+Impact of an Infrastructure Failure on Cognitive Performance
+\[Forthcoming  at **Economics of Transportation**\]
+[PDF](https://www.dropbox.com/scl/fi/kjewa4krfhcemedbbn607/disaster_thesis.pdf?rlkey=mkobps21jwmc65k4bw8y9v3bd&st=16yt65sj&dl=0) ·
+[Replication files](https://data.mendeley.com/datasets/mj9zhb9vxj/1)
+
+---
+
+Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. **Economic Inquiry**, 1–59. https://doi.org/10.1111/ecin.70087 [Forthcoming]
 [Replication files](https://doi.org/10.3886/ICPSR246172.V2)
 
 ---
@@ -29,16 +36,11 @@ Catalano, Ralph, Brenda Bustos, *Emtiaz Hritan*, Joan A. Casey, Alison Gemmill, 
 
 ## Working Papers
 
-Impact of an Infrastructure Failure on Cognitive Performance
-\[Revise and Resubmit  at **Economics of Transportation**\]
-[PDF](https://www.dropbox.com/scl/fi/kjewa4krfhcemedbbn607/disaster_thesis.pdf?rlkey=mkobps21jwmc65k4bw8y9v3bd&st=16yt65sj&dl=0) ·
-[Replication files](https://data.mendeley.com/datasets/mj9zhb9vxj/1)
 
----
 The Politics of Birth: How Local Representation Shapes Maternal–Infant Outcomes
 
 *Emtiaz Hritan* and Tim A. Bruckner.  
-\[Under review at **American Journal of Health Economics**\]
+\[Revise and Resubmit at **American Journal of Health Economics**\]
 [PDF](https://www.dropbox.com/scl/fi/ky300xvy9baml69dfxqsw/Hritan_Bruckner_Election_Perinatal_2026.pdf?rlkey=u5gpjaoxngejn92n0j05m0kk8&st=pleh838p&dl=0) ·
 [Replication files](https://doi.org/10.7910/DVN/NVXTSU)
 
@@ -48,12 +50,14 @@ Hospital Privatization Increased Some Adverse Perinatal Outcomes Among Medicaid 
 
 *Emtiaz Hritan* and Tim A. Bruckner.  
 \[Under review at **Medical Care**\]
+[PDF](https://www.dropbox.com/scl/fi/hw1p2pkawgwor907pl0ol/Hritan_Bruckner_2026_hospital_privatization.pdf?rlkey=4t9bkpx17oiej7bzo3p04hqe1&st=yu1zjamk&dl=0) ·
 
 ---
 Advanced Maternal Age, Socioeconomic Confounding, and Birth Outcomes: Evidence from California
 
-*Emtiaz Hritan* and Tim A. Bruckner.  
+*Emtiaz Hritan*, Brenda Bustos, and Tim A. Bruckner.  
 \[Under review at **Paediatric and Perinatal Epidemiology**\]
+[PDF](https://www.dropbox.com/scl/fi/venoyxy2gi1c48zjzaska/Hritan_Brukner_Bustos_AMA.pdf?rlkey=yq750fpmtbrkdi1cvny9n5mmj&st=wsp9oqib&dl=0) ·
 
 ---
 
@@ -67,7 +71,7 @@ Brenda Bustos, Shutong Huo, *Emtiaz Hritan*, and Tim A. Bruckner.
 Fetal Deaths in the United States During the Initial COVID-19 Shelter-in-Place Period: A Conception-Cohort Approach
 
 Tim A. Bruckner, Brenda Bustos, *Emtiaz Hritan*, Dana Sarnak, Alison Gemmill, and Ralph Catalano.  
-\[Revise and Resubmit at **BMC Pregnancy and Childbirth**\]
+
 
 ---
 
@@ -94,11 +98,6 @@ Silencing the Rails: A Study of the Noise–Safety Trade-Off in Railway Quiet Zo
 
 ## Works in Progress
 
-Ride or Die: Did Ridesharing Services Kill Active and Public Transit?
-
-*Emtiaz Hritan* and Casey Wichman.
-
----
 
 Moving Beyond the Cross-Sectional: Changes in Structural Disadvantage and Fetal and Neonatal Death in the United States
 
@@ -108,22 +107,41 @@ Moving Beyond the Cross-Sectional: Changes in Structural Disadvantage and Fetal 
 
 The Impact of Political Protests on Crime: A Crowding-Out Story
 
+---
+
+The Diffusion of Delayed Childbearing: Immigrant--Native Differences in Maternal Age and Birth Outcomes in Denmark
+(Joint with Tim Bruckner and Lars Højsgaard Andersen)
 
 ---
 
+Impact of Advanced Maternal Age on ADHD: Evidence from Danish Data (Joint with Tim Bruckner and Lars Højsgaard Andersen)
+
+---
+Bridging the Political Divide: Economic Connectedness and COVID-19 Vaccination Uptake in U.S.\ Counties (Joint with Tim Bruckner)
+[PDF](https://www.dropbox.com/scl/fi/z9xtlggawxev414xislzc/politics_of_covid.pdf?rlkey=8s95joqlcd2di0b90vunjl3rq&st=zcgqhzzl&dl=0) ·
+
+---
+
+Ride or Die: Did Ridesharing Services Kill Active and Public Transit?
+
+*Emtiaz Hritan* and Casey Wichman.
+
+---
+
+
 Beware of Dog: The Impact of Air Pollution on Dog Bites
 
-[PDF](https://gtvault-my.sharepoint.com/:b:/g/personal/ehritan3_gatech_edu/EdmtGUiTRxJInDqID3FOgtoB2Vipn7iz3CTO4mP-I3MAsw?e=5pr2f7)
+[PDF](https://www.dropbox.com/scl/fi/x9c6wv9l9piskn4n5e9ah/pollution_dog_bites.pdf?rlkey=du26nfjvbg2sv1260hjzfgv5k&st=swthx7ze&dl=0)
 
 ---
 
 Crime Is in the Water: The Impact of Water Pollution on Crime
-[PDF](https://gtvault-my.sharepoint.com/:b:/g/personal/ehritan3_gatech_edu/EQXA0bdIojlHjp2YWwA2eWIBBhubOT4NgYuG4_cByDsFBA?e=qoE25J)
+[PDF](https://www.dropbox.com/scl/fi/vsbohqscv6n15v2ckqk44/presentation_water_pollution.pdf?rlkey=396rmhnjw93o74gvnu8cak688&st=pr8lsblg&dl=0)
 
 ---
 
 Fighting Fire with Fire: The Effectiveness of Prescribed Burns in Mitigating Future Wildfires
-[PDF](https://gtvault-my.sharepoint.com/:b:/g/personal/ehritan3_gatech_edu/Ec-agOVj1hhMkVHnXCXgJlgBujyLiF3sgW-lwHRqwYGuUw?e=c1I6My)
+[PDF](https://www.dropbox.com/scl/fi/wq2ocv1cztk7qwo5i0jmw/wildfire_prescribed_fire.pdf?rlkey=9reqzncajyp4wihi06qrar7sy&st=07xpvuls&dl=0)
 
 ---
 
