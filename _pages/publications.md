@@ -130,7 +130,6 @@ Ride or Die: Did Ridesharing Services Kill Active and Public Transit?
 
 
 Beware of Dog: The Impact of Air Pollution on Dog Bites
-
 [PDF](https://www.dropbox.com/scl/fi/x9c6wv9l9piskn4n5e9ah/pollution_dog_bites.pdf?rlkey=du26nfjvbg2sv1260hjzfgv5k&st=swthx7ze&dl=0)
 
 ---
