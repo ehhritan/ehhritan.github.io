@@ -39,3 +39,35 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* =========================================================
+   Custom website colors
+   ========================================================= */
+
+/* Main website background */
+html,
+body,
+.initial-content,
+#main,
+.page,
+.archive {
+  background-color: #fbf6f7;
+}
+
+/* Top navigation area */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links {
+  background-color: #fbf6f7;
+}
+
+/* Dropdown navigation on smaller screens */
+.greedy-nav .hidden-links {
+  background-color: #fbf6f7;
+}
+
+/* Slightly darker footer */
+.page__footer {
+  background-color: #f5e9ec;
+}
