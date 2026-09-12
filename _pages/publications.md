@@ -14,10 +14,10 @@ author_profile: true
 
 ## Publications
 
-Impact of an Infrastructure Failure on Cognitive Performance
-\[Forthcoming  at **Economics of Transportation**\]
-[PDF](https://www.dropbox.com/scl/fi/kjewa4krfhcemedbbn607/disaster_thesis.pdf?rlkey=mkobps21jwmc65k4bw8y9v3bd&st=16yt65sj&dl=0) ·
+Hritan, E. H. (2026). Impact of an Infrastructure Failure on Cognitive Performance. **Economics of Transportation** 48: 100470.
+[https://doi.org/10.1016/j.ecotra.2026.100470](https://doi.org/10.1016/j.ecotra.2026.100470)
 [Replication files](https://data.mendeley.com/datasets/mj9zhb9vxj/1)
+
 
 ---
 
