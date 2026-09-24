@@ -41,10 +41,10 @@
 @import "print";
 
 /* =========================================================
-   Custom website colors
+   Custom website colors and navigation band
    ========================================================= */
 
-/* Main website background */
+/* Main page background */
 html,
 body,
 .initial-content,
@@ -54,17 +54,29 @@ body,
   background-color: #fbf6f7;
 }
 
-/* Top navigation area */
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav,
-.greedy-nav .visible-links {
-  background-color: #fbf6f7;
+/* Colored navigation band */
+.masthead {
+  background-color: #f5e9ec;
+  border-bottom: 1px solid #dfcfd3;
 }
 
-/* Dropdown navigation on smaller screens */
+/* Make all parts of the navigation use the same color */
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
 .greedy-nav .hidden-links {
-  background-color: #fbf6f7;
+  background-color: #f5e9ec;
+}
+
+/* Increase the height of the navigation band */
+.masthead__inner-wrap {
+  padding-top: 1.15rem;
+  padding-bottom: 1.15rem;
+}
+
+/* Add space between the navigation band and page content */
+#main {
+  padding-top: 2rem;
 }
 
 /* Slightly darker footer */
