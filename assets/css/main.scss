@@ -41,45 +41,96 @@
 @import "print";
 
 /* =========================================================
-   Custom website colors and navigation band
+   Custom website colors and navigation ribbon
    ========================================================= */
 
-/* Main page background */
+/* Main website background */
 html,
 body,
 .initial-content,
 #main,
 .page,
 .archive {
-  background-color: #fbf6f7;
+  background-color: #fcfbf7;
+  color: #333333;
 }
 
-/* Colored navigation band */
+/* Soft blue-gray navigation ribbon */
 .masthead {
-  background-color: #f5e9ec;
-  border-bottom: 1px solid #dfcfd3;
+  padding: 0.55rem 0;
+  background-color: #e8eef4;
+  border-bottom: 1px solid #ccd6e0;
 }
 
-/* Make all parts of the navigation use the same color */
+/* Keep internal navigation elements transparent */
 .masthead__inner-wrap,
 .greedy-nav,
-.greedy-nav .visible-links,
+.greedy-nav .visible-links {
+  background-color: transparent;
+}
+
+/* Mobile navigation dropdown */
 .greedy-nav .hidden-links {
-  background-color: #f5e9ec;
+  background-color: #e8eef4;
 }
 
-/* Increase the height of the navigation band */
-.masthead__inner-wrap {
-  padding-top: 1.15rem;
-  padding-bottom: 1.15rem;
+/* Navigation title and links */
+.site-title,
+.greedy-nav a,
+.greedy-nav .visible-links a {
+  color: #24364b;
 }
 
-/* Add space between the navigation band and page content */
+/* Navigation hover color */
+.greedy-nav .visible-links a:hover {
+  color: #255799;
+}
+
+/* Space between navigation and page content */
 #main {
-  padding-top: 2rem;
+  padding-top: 1.25rem;
 }
 
-/* Slightly darker footer */
+/* Website links */
+a,
+a:visited {
+  color: #255799;
+}
+
+a:hover {
+  color: #002244;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page__title,
+.archive__item-title {
+  color: #24364b;
+}
+
+/* Horizontal separators */
+hr {
+  border-color: #d9e0e7;
+}
+
+/* Footer */
 .page__footer {
-  background-color: #f5e9ec;
+  background-color: #e8eef4;
+  border-top: 1px solid #ccd6e0;
+  color: #24364b;
+}
+
+/* Footer links */
+.page__footer a,
+.page__footer a:visited {
+  color: #255799;
+}
+
+.page__footer a:hover {
+  color: #002244;
 }
