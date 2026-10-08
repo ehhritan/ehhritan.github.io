@@ -21,8 +21,15 @@ Hritan, E. H. (2026). Impact of an Infrastructure Failure on Cognitive Performan
 
 ---
 
-Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. **Economic Inquiry**, 1–59. https://doi.org/10.1111/ecin.70087 [Forthcoming]
+Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. **Economic Inquiry**, 1–59.  
+[https://doi.org/10.1111/ecin.70087](https://doi.org/10.1111/ecin.70087)
+[https://newsroom.wiley.com/press-releases/press-release-details/2026/Do-ridesharing-services-affect-crime-rates/default.aspx]([Wiley Press Release])
 [Replication files](https://doi.org/10.3886/ICPSR246172.V2)
+
+---
+
+Brenda Bustos, Shutong Huo, *Emtiaz Hritan*, and Tim A. Bruckner.  "Emergency Department Visits Among Hispanics in Los Angeles Following the June 6th Immigration Raids"
+ **American Journal of Public Health** [Forthcoming]
 
 ---
 
@@ -59,12 +66,7 @@ Advanced Maternal Age, Socioeconomic Confounding, and Birth Outcomes: Evidence f
 \[Under review at **Paediatric and Perinatal Epidemiology**\]
 [PDF](https://www.dropbox.com/scl/fi/venoyxy2gi1c48zjzaska/Hritan_Brukner_Bustos_AMA.pdf?rlkey=yq750fpmtbrkdi1cvny9n5mmj&st=wsp9oqib&dl=0) ·
 
----
 
-Emergency Department Visits Among Hispanics in Los Angeles Following the June 6th Immigration Raids
-
-Brenda Bustos, Shutong Huo, *Emtiaz Hritan*, and Tim A. Bruckner.  
-\[Revise and Resubmit at **American Journal of Public Health**\]
 
 ---
 
