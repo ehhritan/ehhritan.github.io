@@ -23,7 +23,7 @@ Hritan, E. H. (2026). Impact of an Infrastructure Failure on Cognitive Performan
 
 Hritan, E. H. (2026). Crime on the move? The effect of ridesharing services on crime. **Economic Inquiry**, 1–59.  
 [https://doi.org/10.1111/ecin.70087](https://doi.org/10.1111/ecin.70087)
-[[Wiley Press Release]]([https://newsroom.wiley.com/press-releases/press-release-details/2026/Do-ridesharing-services-affect-crime-rates/default.aspx])
+[[Wiley Press Release]](https://newsroom.wiley.com/press-releases/press-release-details/2026/Do-ridesharing-services-affect-crime-rates/default.aspx)
 [[Replication files]](https://doi.org/10.3886/ICPSR246172.V2)
 
 ---
