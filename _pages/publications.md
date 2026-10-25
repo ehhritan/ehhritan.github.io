@@ -33,6 +33,10 @@ Brenda Bustos, Shutong Huo, *Emtiaz Hritan*, and Tim A. Bruckner.  "Emergency De
 
 ---
 
+Ralph Catalano, Allison Stolte, *Emtiaz Hritan*, Hedwig Lee, Brenda Bustos, Alison Gemmill, Dana Sarnak, Tim Bruckner, Selection in utero: An evolutionary connection between the political environment and male twin infant mortality, **Evolution, Medicine, and Public Health**, 2026;, eoag025,
+[https://doi.org/10.1093/emph/eoag025](https://doi.org/10.1093/emph/eoag025)
+
+---
 Bruckner, Tim A., Brenda Bustos, *Emtiaz Hritan*, and Samantha Gailey. "Economic connectedness and fetal and infant death: a population-based cross-sectional study of California." **Journal of Epidemiology and Community Health** 80, no. 8 (2026): 617-623.
 
 ---
@@ -75,12 +79,6 @@ Fetal Deaths in the United States During the Initial COVID-19 Shelter-in-Place P
 Tim A. Bruckner, Brenda Bustos, *Emtiaz Hritan*, Dana Sarnak, Alison Gemmill, and Ralph Catalano.  
 
 
----
-
-Increased Infant Mortality Among Black Male Twins After the Obama Election: A Sequela of Selection In Utero
-
-Ralph Catalano, Allison Stolte, *Emtiaz Hritan*, Hedwig Lee, Brenda Bustos, Alison Gemmill, Dana Sarnak, and Tim A. Bruckner.  
-\[Revise and Resubmit at **Evolution, Medicine, and Public Health**\]
 
 ---
 
